@@ -4,8 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Resume Keyword Matcher</title>
- 
 </head>
 <body>
 
@@ -43,7 +41,7 @@
     <ol>
       <li>Clone this repository to your local machine using the following command:</li>
       <div class="highlight">
-        <code>git clone https://github.com/yourusername/resume-keyword-matcher.git</code>
+        <code>git clone https://github.com/anshp-30304/resume-keyword-matcher.git</code>
       </div>
       <li>Navigate to the project folder:</li>
       <div class="highlight">
