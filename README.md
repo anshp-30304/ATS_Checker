@@ -5,70 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Resume Keyword Matcher</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f4f7fc;
-      color: #333;
-    }
-    h1 {
-      font-size: 2.5rem;
-      color: #4a90e2;
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    h2 {
-      font-size: 1.75rem;
-      color: #333;
-      margin-bottom: 10px;
-    }
-    p {
-      font-size: 1rem;
-      line-height: 1.6;
-      margin-bottom: 20px;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    ul li {
-      font-size: 1rem;
-      margin-bottom: 10px;
-    }
-    code {
-      background-color: #f1f1f1;
-      padding: 4px 8px;
-      border-radius: 4px;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    .section h3 {
-      font-size: 1.5rem;
-      margin-top: 10px;
-      color: #4a90e2;
-    }
-    .highlight {
-      background-color: #eef7ff;
-      padding: 10px;
-      border-radius: 5px;
-    }
-    .footer {
-      font-size: 0.9rem;
-      color: #888;
-      text-align: center;
-      margin-top: 40px;
-    }
-    .footer a {
-      color: #4a90e2;
-      text-decoration: none;
-    }
-    .footer a:hover {
-      text-decoration: underline;
-    }
-  </style>
+ 
 </head>
 <body>
 
